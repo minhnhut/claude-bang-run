@@ -1,0 +1,8 @@
+{
+  "name": "bang-run",
+  "version": "0.3.0",
+  "description": "Adds a Run button under each `! command` Claude suggests; one click runs it and sends the output back to Claude.",
+  "license": "MIT",
+  "author": { "name": "Nhut Tran" },
+  "repository": "https://github.com/minhnhut/claude-bang-run"
+}

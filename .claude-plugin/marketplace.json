@@ -1,0 +1,6 @@
+{
+  "name": "claude-bang-run",
+  "description": "bang-run: a Run button under each `! command` Claude suggests.",
+  "owner": { "name": "Nhut Tran" },
+  "plugins": [{ "name": "bang-run", "source": "./" }]
+}
